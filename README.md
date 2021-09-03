@@ -1,5 +1,5 @@
 
-# **Micro-Architecture Attack Detection Model using Machine Learning**
+# **Microarchitecture Attack Detection Model using Machine Learning**
 
 # Overview
 
