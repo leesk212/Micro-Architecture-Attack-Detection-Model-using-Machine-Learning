@@ -1,7 +1,5 @@
 
 # **Micro-Architecture Attack Detection Model using Machine Learning**
-* 이석민
-* 광운대학교 컴퓨터정보공학부 / 2016722013
 
 # Overview
 
